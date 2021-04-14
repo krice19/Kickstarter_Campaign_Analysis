@@ -1,2 +1,3 @@
-# kickstarter-analysis
-Performing analysis on kickstarter trends 
+# An Analysis of Kickstarter Campaigns 
+In this analysis, we are evaluating that factors on what makes kickstarter successful 
+
